@@ -1,5 +1,3 @@
-# FP_SISOP19_F13
-## Arini Puspitasari 05111740000040
-## Nur Muhammad Husnul Habib Yahya 05111740000094
+# CronJob for Linux
 
-untuk readme menyusul ya mas
+This is a cronjob for linux made from scratch
